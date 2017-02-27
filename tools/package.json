@@ -1,0 +1,17 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm run html && npm run pdf",
+    "html": "marked -i ../index.md > ../index.html",
+    "pdf": "electron-pdf ../index.html ../zombie-brikz.pdf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-pdf": "^1.2.0",
+    "marked": "^0.3.6"
+  }
+}

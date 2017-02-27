@@ -1,7 +1,7 @@
 ![Brainz](logo.png)
-Zombie Brikz
------
+# Zombie Brikz
 *AKA Quantum Zombies*
+
 
 Hi! This is a zombie extension to [Brik Wars](brikwars.com) (Quick Wars mechanics) with rules built to mimic the tropes from pop culture.
 
@@ -68,7 +68,7 @@ A minifig can be stealthy, but to do that it can only move `2”` per turn. So n
 
 > Also, if it's not the season 1 you don't have to worry much about scratches
 
-Zombie | 
+Zombie |
 ---|---
 defense| 2 D6
 damage| 1 D6
