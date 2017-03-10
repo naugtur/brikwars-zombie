@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "npm run html && npm run pdf",
-    "html": "marked -i ../index.md > ../index.html",
+    "html": "marked -i ../index.md | node ./wrap.js > ../index.html",
     "pdf": "electron-pdf ../index.html ../zombie-brikz.pdf"
   },
   "keywords": [],
