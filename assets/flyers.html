@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title>
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Glegoo');
+        html,body {
+            width: 20.5cm;
+            font-family: 'Glegoo', serif;
+            font-size: 4mm;
+            line-height: 5mm;
+            padding: 0;
+            margin: 0;
+            background: #eee;
+            /*background: #fff;*/
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        h1 {
+            font-size: 6mm;
+            line-height: 7mm;
+        }
+
+        img {
+            height: 15mm;
+        }
+
+        p {
+            margin: 3mm 0;
+            padding: 0;
+        }
+
+        small {
+            font-size: 2mm;
+        }
+
+        .flyer {
+            background: #fff;
+            page-break-inside: avoid;
+            float: left;
+            width: 4cm;
+            height: 7cm;
+            /*border: 1px solid #aaa;*/
+            border-radius: 1mm;
+            padding: 1mm;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="flyer">
+        <h1>Brik Wars Zombie</h1>
+        <img src="../logo.png" alt="">
+        <p>A game of bricks and the dead</p>
+        <p>bit.ly/zombiebrik</p>
+        <small>Brik Wars addon</small>
+    </div>
+    <script>
+        var flyer = document.querySelector(".flyer");
+        Array(5 * 4 - 1).fill(0).map(function() {
+            document.body.appendChild(flyer.cloneNode(true))
+        })
+    </script>
+</body>
+
+</html>

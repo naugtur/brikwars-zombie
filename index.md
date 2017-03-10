@@ -6,6 +6,10 @@ Hi! This is a co-op zombie extension to [Brik Wars](http://brikwars.com) with ru
 Brikwars Zombie is a co-op game with no player playing the zombies and just a tiny bit of maintenance to do around them.
 Mechanic is built on top of Quick Wars mechanics for simplicity, but can easily be adapted for full Brik Wars mechanics too.
 
+*bit.ly/zombiebrik*
+
+### [download printable PDF version](./zombie-brikz.pdf)
+
 ```
 
 
