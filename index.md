@@ -1,13 +1,24 @@
-![Brainz](logo.png)
-# Zombie Brikz
-*AKA Quantum Zombies*
-
-
-Hi! This is a zombie extension to [Brik Wars](brikwars.com) (Quick Wars mechanics) with rules built to mimic the tropes from pop culture.
-
-This is a co-op game with no player playing the zombies and not a lot of maintenance to do around them.
 
 ----
+
+Hi! This is a co-op zombie extension to [Brik Wars](http://brikwars.com) with rules built to mimic the tropes from pop culture.
+
+Brikwars Zombie is a co-op game with no player playing the zombies and just a tiny bit of maintenance to do around them.
+Mechanic is built on top of Quick Wars mechanics for simplicity, but can easily be adapted for full Brik Wars mechanics too.
+
+```
+
+
+
+
+
+
+
+
+by  Zbyszek Tenerowicz and Kuba Eichler
+tested with  Witek Krawczyk
+logo design by  Agata Tenerowicz
+```
 
 # Rules
 
@@ -17,11 +28,25 @@ This is a co-op game with no player playing the zombies and not a lot of mainten
 
 ### To be
 Every time a new location becomes visible:
-- small space, room, corner, closet - roll `D6`. `D6 <= DANGER_LVL` spawns a zombie there
-- large space, open area - roll `D6`. `(D6-1) * DANGER_LVL` zombies spawn (includes critical rolls - roll a 6, you roll again and add)
+- small space, room, corner, closet - roll `D6`. If `D6 <= DANGER_LVL` spawns a zombie there
+- large space, open area - roll `D6`. If `(D6-1) * DANGER_LVL` zombies spawn (includes critical rolls - roll a 6, you roll again and add!)
+
+```
+Example
+
+DANGER_LVL is 3
+
+- I enter a room, roll 2 - a zombie is there.
+- I enter another room, roll 3 - a zombie is there.
+- I enter yet another room, roll 4 - it's empty.
+- I go out to the open, roll 3 - 6 zombies are there.
+- I run to the other side of the building, roll 1 - there are no zombies there.
+```
 
 ### Not to be
-Zombies get removed after sight of them is lost and cannot be regained in 2 turns of a player going in their direction
+Zombies get removed after sight of them is lost and cannot be regained in 2 turns of a player going in their direction. Just like in the movies!
+
+---
 
 ### Some certainty in this World
 > Most movies and comic books on zombies have locations relevant for the plot, where pre-defined zombies reside. These in turn seem to be immune to entropy and seem entangled with other plot elements
@@ -48,6 +73,8 @@ To make remembering their state easier, you should mark it with their hands.
 Zombies move `2”` a turn (random direction if wandering)
 
 When a zombie gets spawned roll a die. If `D6 <= DANGER_LVL` the zombie will be wandering
+
+---
 
 #### Horde rule
 When zombies are closer than `2”` from each other, they are considered a horde, which will move the same direction (so you only roll for direction once for the whole horde)
@@ -78,17 +105,22 @@ In a player's turn, zombies can be attacked as per QuickWars rules.
 
 When a player’s minifig moves in a way that puts it within `1”` of a zombie at any point of the route, a zombie roll happens for each zombie within range while the character is moving.
 
-You can use [Zombie Dice](http://www.sjgames.com/dice/zombiedice/) for zombie rolls with the extra fun of having to weigh your risks.
+---
 
-Zombie roll has 3 outcomes:
+#### Zombie rolls
 
-Zombie Dice| regular D6 | outcome
+You can use  [Zombie Dice](http://www.sjgames.com/dice/zombiedice/) for zombie rolls with the extra fun of having to weigh your risks.
+
+Zombie roll outcomes |
 ---|---|---
+**Zombie Dice**| **regular D6** | **outcome**
 Brains | 1-2 | minifig is **stopped** and cannot continue movement, it gets **attacked** by the zombie immediately. Other zombies in `1”` range are still getting the roll, but the minifig will not continue movement as intended.
 Feet | 3-4 | minifig manages to pass by and can continue movement
 Hit | 5-6 | minifig hits the zombie and pushes it away `2”` in a direction of choice (unless there’s another zombie on the way)
 
 When using Zombie Dice, roll a die and put it away. You need to decide if you want to use the riskier ones first or later. When you run out, start over with the full set.
+
+---
 
 ## Danger Level
 > As the plot approaches a conclusion (or a mid-season finale) the world gets more and more intense. In zombie infected universe a factor exist that dictates how many zombies should turn out to be waiting around the corner.
@@ -105,7 +137,6 @@ Need examples? See [scenarios]().
 - while a character is alone (nobody else in the room or open area)
 - in a location that has a warning/danger sign at the entrance
 
-----
 
 # Characters
 
@@ -130,6 +161,8 @@ Players can choose any character, but make sure they have one advantage and one 
 
 Alternatively players can pick 2 characters - a mix of a strong and a weak one, choosing their traits accordingly (example: a cop and a scared teenager).
 
+---
+
 Example disadvantages:
 - Traumatized: freaking out at random or when losing HP - can move at most 2" in a turn when freaked out.
 - Fearful: when entering a place and discovering a zombie `D6=1` makes noise, `D6=2` runs away.
@@ -148,6 +181,8 @@ Example advantages:
 - Firefighter: gets a free "put out fire"-only action per turn
 - Doctor - You start with as many tokens (syringes, pills) as the starting number of characters. You can approach a wounded minifig and remove one token to restore that minifigs health. Including yourself
 
+---
+
 Example funny characters:
 - Footballer: You start with a football.
   - Dribble: You don’t carry the ball in your hands if you want but it is still in your possession when you move.
@@ -163,8 +198,7 @@ Example funny characters:
 
 # Scenarios
 
-
-## Adventure One: Escape this goddamn city
+## Escape this goddamn city
 
 > This place is swarming with zombies. Let's get out of here now! OR as soon as we collect guns and food and fuel and...
 

@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css?family=Glegoo');
+
+html {
+  width: 100%;
+  overflow-x: hidden;
+}
+body {
+  width: 20cm;
+  font-family: 'Glegoo', serif;
+  font-size: 4mm;
+  overflow-x: visible;
+  text-align: justify;
+}
+
+p {
+  line-height: 1.7em;
+}
+
+h1{
+  font-size: 12mm
+}h2{
+  font-size: 9mm
+}h3{
+  font-size: 6mm
+}h4{
+  font-size: 5mm
+}
+
+
+section {
+  text-align: center;
+  padding: 2cm 0;
+  page-break-after: always;
+}
+
+.logo, .punchline {
+  margin: 2cm 0;
+}
+
+.title {
+  font-size: 3em;
+  margin-bottom: 0;
+  line-height: 1em;
+}
+
+article {
+  margin: 2cm;
+}
+
+article > h1 {
+  color: #fff;
+  background-color: #222;
+  width: 200cm;
+  margin-top: 2cm;
+  margin-left: -1cm;
+  padding-left: 1cm;
+  page-break-before: always;
+}
+article>h2{
+  width: 200cm;
+  border-bottom: 1px solid #222;
+  
+}
+
+hr {
+  border: none;
+  page-break-before: always;
+}
+
+blockquote, q {
+  color: #555;
+  border-left: 3mm solid #eee;
+  padding: 0.1mm 5mm;
+  page-break-inside: avoid;
+}
+
+table {
+  border: 1px solid #ddd;
+  padding: 4mm;
+  font-size: 1.2em;
+  float:right;
+  margin: 2mm 7mm;
+  page-break-inside: avoid;
+}
+th, td {
+  padding: 0 2mm;
+  margin: 1px;
+}
+table tr:not(:last-child) td{
+  border-bottom: 1px solid #ddd;
+}
+table tr td:not(:last-child) {
+  border-right: 1px solid #ddd;
+}
+
+/*fix printing heads*/
+thead {
+  display: table-caption;
+}
+
+code {
+  font-size: 4.5mm;
+  line-height: 4mm;
+}
+
+pre>code {
+  font-family: 'Glegoo', serif;
+  font-size: 3.5mm;
+  line-height: 3mm;
+  font-style: italic;
+}
+pre {
+  padding-left: 10mm;
+  page-break-inside: avoid;
+}
+
+ul{
+  page-break-inside: avoid;
+}
+li {
+  list-style-type: square;
+}
+li li {
+  list-style-type: circle;
+}
+
+a, a:visited {
+  color: #227;
+}
+a:hover {
+  color: #33d;
+}
+
+@media print {
+  html, body{
+    width: 20cm;
+    overflow:hidden;
+  }
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  a:not([href^='#'])::after {
+    content: attr(href);
+    display: inline;
+    margin: 0 1mm;
+    text-decoration:underline;
+    outline: 1px solid #eee;
+    padding: 0 1mm;
+  }
+}
