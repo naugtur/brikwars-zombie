@@ -197,7 +197,7 @@ Example funny characters:
     - Ollie: Once per movement, you can jump over things or jump to connect grinds.
     - Grind: When there is a "grindable" surface such as a rail/ledge/low wall etc. you can grind it, adding its whole length to your normal movement as a bonus. The surface mustn’t be occupied by minifigs or have other bricks attached on top of it (but can have studs). Another obstacle for grinding is a zombie that stands too close to the surface - you might try to knock it down as a melee attack (once per movement) but you fall down and end your movement if you don’t succeed.
 
-- Jedi: You start with a lightsaber. Once per game you can convince a zombie or a horde that these are not the brains they are looking for: they return to the Standing state (hands down) and become disinterested. 
+- Jedi: You start with a lightsaber. Once per game you can convince a zombie or a horde that these are not the brains they are looking for: they return to the Standing state (hands down) and become disinterested.
 
 # Scenarios
 
@@ -219,13 +219,14 @@ Fuel in quantities of 1 or 2 can be found in random locations.
 > Remember that rich guy's house outside our town? Maybe the place is empty now? After all, the owner isn't a psycho killer, right?
 
 - Enter the house
-- Explore the Garage/ Sadist Studio
+- Explore the Garage / Sadist Studio
 - Find the hostage and take them to the escape car
-After all that...
-- Psycho killer appears: you fight both zombies (if any) and him. The Psycho Killer has the same stats as characters and always attacks the nearest character; never retreats, fights to their psycho death.
 
-Variant: if only one person arranges the build and controls zombies, the recommended plot twist is that the rescued hostage is the true psycho killer the characters should fear. This plot twist should be revealed when the hostage is escorted to safety or even possibly armed by the characters.
-Variant: (additional objective) Collect 2 tools from the Garage
+Plot twist: Before you start the game, toss a coin and (without looking!) set it aside or cover with something. When the rescued hostage is armed or finds a weapon while being escorted, reveal the coin. `Heads`: he is the owner of the mansion and he attacks!
+
+The Psycho Killer has the same stats as characters and always attacks the nearest character; never retreats, fights to his psycho death.
+
+Variant: (additional objective) Collect 2 tools from the Garage to fix the escape car
 
 ## Jailbreak
 
@@ -236,14 +237,15 @@ Variant: (additional objective) Collect 2 tools from the Garage
 - The Prisoner is injured: get medical supplies from the Healthcare Facility
 
 The scenario build should have a lot of narrow passages and small rooms, with around 2-3 entrances/exits. Rescuing the prisoner, especially using the explosives, should affect the routes (block some corridors permanently).
+
 Plot twist: The injured Prisoner turns into a zombie. Well, at least you tried to help him out.
 
+# Building the board
 
+## Placing things at random
 
-Hint for placing things at random: Choose a few key places on the map. Those spots will give the characters a chance to get what they need. Now take the same number of containers of one type and put the chosen items inside. You can ask someone who's not playing to put the containers on the map or do it yourself. To win the fair play trophy, fill the containers contents with the same bricks but of various colours so that you don't feel the difference in weight.
+Choose a few key places on the map. Those spots will give the characters a chance to get what they need. Now take the same number of containers of one type and put the chosen items inside. You can ask someone who's not playing to put the containers on the map or do it yourself. To win the fair play trophy, fill the containers contents with the same bricks but of various colors so that you don't feel the difference in weight.
 
 For instance: in the first scenario, there should be some extra fuel spread on the map. You choose 3 spots, some backyards around town. Now you choose the amount of extra fuel, say, 0/2/3. You put the resource markers in the containers Shuffle the containers and place them in the previously chosen spots.
 
 Treasure chests and barrels make great containers. We used chests/crates from Adventurers series, covered with Collectible Minifigures stands and large barrels covered with radar dish pieces. As long as you can't tell the difference between the containters of one type, they're good.
-
-
