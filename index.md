@@ -249,3 +249,7 @@ Choose a few key places on the map. Those spots will give the characters a chanc
 For instance: in the first scenario, there should be some extra fuel spread on the map. You choose 3 spots, some backyards around town. Now you choose the amount of extra fuel, say, 0/2/3. You put the resource markers in the containers Shuffle the containers and place them in the previously chosen spots.
 
 Treasure chests and barrels make great containers. We used chests/crates from Adventurers series, covered with Collectible Minifigures stands and large barrels covered with radar dish pieces. As long as you can't tell the difference between the containters of one type, they're good.
+
+### Kickstarter backers
+
+pfkfalkjalkjf
