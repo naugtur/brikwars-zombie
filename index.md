@@ -6,7 +6,7 @@ Hi! This is a co-op zombie extension to [BrikWars](http://brikwars.com) with rul
 Brikwars Zombie is a co-op game with no player playing the zombies and just a tiny bit of maintenance to do around them.
 Mechanic is built on top of Quick Wars mechanics for simplicity, but can easily be adapted for full Brik Wars mechanics too.
 
-*bit.ly/zombiebrik*
+*bit.ly/zombiebrikz*
 
 ### [download printable PDF version](./zombie-brikz.pdf)
 
@@ -22,6 +22,9 @@ Mechanic is built on top of Quick Wars mechanics for simplicity, but can easily 
 by  Zbyszek Tenerowicz and Kuba Eichler
 tested with  Witek Krawczyk
 logo design by  Agata Tenerowicz
+
+
+
 ```
 
 # Rules
