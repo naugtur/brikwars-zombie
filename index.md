@@ -3,8 +3,8 @@
 
 Hi! This is a co-op zombie extension to [BrikWars](http://brikwars.com) with rules built to mimic the tropes from pop culture.
 
-Brikwars Zombie is a co-op game with no player playing the zombies and just a tiny bit of maintenance to do around them.
-Mechanic is built on top of Quick Wars mechanics for simplicity, but can easily be adapted for full Brik Wars mechanics too.
+Zombie Brikz is a co-op game with no player playing the zombies and just a tiny bit of maintenance to do around them.
+The game mechanics are built on top of Quick Wars mechanics for simplicity, but can easily be adapted for full BrikWars mechanics too.
 
 *bit.ly/zombiebrikz*
 
@@ -26,6 +26,7 @@ logo design by  Agata Tenerowicz
 
 
 ```
+
 
 # Rules
 
@@ -149,7 +150,10 @@ Need examples? See [scenarios]().
 
 > We need to split up!
 
+## Health
 Characters work just like minifigs in BrikWars with one exception - a successful zombie attack means the minifig is wounded. The next attack will kill them. Mark a wounded minifig by attaching a 1 stud red piece to it.
+
+The wound might be healed by using resources you determine beforehand
 
 ## Actions
 Regular actions work like in BrikWars. Pick up, give, throw, close door, operating levers or consoles etc.
@@ -160,7 +164,7 @@ Special actions:
 example: a broken truck engine requires the team to collect 5 unique tools that would help (only grey/dark grey and black tool accessories helps + use a bit of common sense and don’t repair vehicles with binoculars)
 - Explore - looking for useful items / opening a closed compartment / container, hacking or breaking into something (ATM, safe, lockpicking)
 - Firefighting - one typical brick-built fire extinguisher (two bricks: ‘can’ + ‘tap’) allows to take 2 flame bricks, one per action/turn. Firefighters have an extra action in turn.
-
+- 
 
 ## Character creation
 
@@ -200,7 +204,8 @@ Example funny characters:
     - Ollie: Once per movement, you can jump over things or jump to connect grinds.
     - Grind: When there is a "grindable" surface such as a rail/ledge/low wall etc. you can grind it, adding its whole length to your normal movement as a bonus. The surface mustn’t be occupied by minifigs or have other bricks attached on top of it (but can have studs). Another obstacle for grinding is a zombie that stands too close to the surface - you might try to knock it down as a melee attack (once per movement) but you fall down and end your movement if you don’t succeed.
 
-- Jedi: You start with a lightsaber. Once per game you can convince a zombie or a horde that these are not the brains they are looking for: they return to the Standing state (hands down) and become disinterested.
+- Jedi: You start with a lightsaber. 
+  - Not The Brains You Are Looking For: Once per game you can make one zombie or one horde disinterested; they return to the Standing state (hands down).
 
 # Scenarios
 
@@ -243,7 +248,51 @@ The scenario build should have a lot of narrow passages and small rooms, with ar
 
 Plot twist: The injured Prisoner turns into a zombie. Well, at least you tried to help him out.
 
+## The Show Must Go On
+
+>This is ZOMB, the longest-running un-undead broadcast this part of state. Are you alive? Are you willing to help?
+
+The characters need to help the local media outlet, a solo operation ran by an almost insane hermit, also being the last hope of journalism in this zombie-infested land. The build should consist of equal parts of open space (a desert or a kind of wasteland) and city ruins.
+
+- Get the gear from a destroyed TV vehicle (bonus tools or car parts, should you need them in a long run for campaign play)
+- Take the gear to the Journalist so that he repairs it and gives you a ready antenna module and instructions
+- Install the antenna module on the right spot, which happens to be the most dangerous one (should be the highest point on your build or a special location picked before the game)
+
+Plot twist: the construction breaks under the character(s) trying to install the device. They fall, possibly get hurt (one wound each), roll for zombie presence again if necessary and have to start over with putting the antenna module in place.
+
 # Building the board
+
+## Your map - your build
+
+Since there will be a fair amount of minifigs in play and a lot of placing zombies on board and taking them away, consider using as many baseplates as you can. The zombie walk demands some stability. Alternatively, have a stand for each minifig and some larger plates for hordes.
+
+The rules are different for interiors and exteriors - use this advantage for diverse urban spaces. There might be wide streets, only seemingly calm, and dreadful narrow passages, where the undead lurk. A well-balanced map should use a few buildings divided into distinct rooms, windows, entrances, holes in the walls etc. You don't have to build whole models. In fact, it's impractical for manipualting the minifigs, so you can build them up to minifig arm level or leave lower structures, more schematic-like.
+
+It's more important in Zombie Brikz than BrikWars that you know what the characters could do and what wouldn't be able to do in terms of movement. Which fence is good for climbing, which obstacle can be jumped over? It's good to have such understanding of your board before the game.
+
+## Important spots
+
+### Quest locations
+Zombies attached
+NPC present
+Danger levels & Plot twists
+
+### Resources
+Choose which resources are important for your scenario (what will the characters collect). Now choose which bricks represent them. Be reasonable about this: destroying buildings shouldn't produce resources just because the parts are the same. One way to avoid such actions is to represent the resources by unique parts, not used anywhere else.
+
+Resource examples: food, clothing, fuel, guns, tools, machine parts, works of art, money, drugs.
+
+Distribute the resources evenly on the map. Choose some obvious places with extra resources and some random numbers (See: Placing things at random).
+
+### Starting points
+Once you have the quest locations and resources, choose a few places where the characters can start the game. You can have them start together or pick a random spot for each character using the dice.
+
+Examples:
+1. The characters start this scenario together, they arrived by a car. The board is more or less a rectangle so you pick and assign numbers to 6 starting points on the outside: placed in the corners and the middles of the longer sides, just like pouches on a billiards table. You roll a d6 and place the car and minifigs in the right spot.
+
+2. Each character should start alone. They are just about to escape their houses. You pick and assign numbers to 6 or less places and roll, ignoring the same rolls.
+
+3. Each character starts alone, out in the open. You pick and assign numbers to 6 baseplates or open spaces on the board and roll where each character starts. If the rolls are the same, place the minifigs on the opposite sides of those open spaces.
 
 ## Placing things at random
 
@@ -260,3 +309,32 @@ Licensed under [CC BY NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/leg
 
 BrikWars is copyright ©1995-2010 Mike Rayhawk.
 For more information and the complete rules, please visit http://www.brikwars.com.
+
+---
+
+# (Intro?) What this game is and why we made it
+
+>Our Zombies Are Different
+
+This game is a result of tinkering with QuickWars for pure brik mayhem pleasure. Most of the time, we didn't want to go deep into BrikWars realm, with its rules for Squads, Vehicles, Mounts and Cones of Vision (yes, i just picked a few random words from the core book but you get the idea, we're dealing with a few dozen pages there). The current BW spirit as we see it is also a bit different from how we play a minifig battle game. Obviously, we'd like to share this idea.
+
+What is excellent about BrikWars is minifigs fighting in a kind of primordial soup, the perfect chaos of its world and the imagination being the players' only limit. And whenever your imagination is your only limit, it turns out the results are pretty much the same among various users. The game itself is well-structured, but resembles codexes for regular strategic boardgames. And the natural course of players' interaction with BrikWars is that they start to treat it as a regular boardgame. The worldbuilding is thriving and there's more and more interesting army concepts.
+
+We get the irony. The tongue-in-cheek armies and realms are cool. But after all, as people stack more things on a simple game, they are replicating what they were trying to avoid in the first place. BrikWars has a potential to be fast and funny boardgame that takes no time to set up. Instead, it grew to a proper set of rules to be memorised and a chance to create absurdly awesome armies for people who can't paint.
+
+>But what about the Zombies??
+
+Our vision for this purpose would consist of two things. Simplify first. Let's use QuickWars with a twist and keep it true to BrikWars nature - play for fun. Don't get fixated on the rules - they exist so that you don't make *everything* up. Secondly, shift weight from the army identity to the location functionality. Let the terrain build play. It's just like in a movie... Instead of a legion lead by superheroes, you choose a bunch of normal guys or cliche characters. They are trying to survive in harsh conditions. And their surrounding matters.
+
+Because of that, the builds for a Zombie Brikz battle have to be prepared with more care than usual. The objectives for co-op scenario have to be set, some important locations have to be determined and some resources need to be distributed. There might be some conditions the team agrees on beforehand (*if we push this button, this building is replaced with a crater*). In some cases there will be non-player characters for your team to rescue or interact with. Finally, the build needs the player characters and is ready for the undead to be spawned.
+
+The view Zbyszek had in mind creating the mechanics is that zombies in the movies act like a force of nature. They are a flood wave. Even more, they are dependent on being observed by the characters. That's how the zombie quantum theory was born. What is great about it is that you use a limited number of minifigs at all times, still maintaining the impression of danger the zombie apocalypse might cause. 
+
+So here it is. A mod. An extension. An addon. Some rules for fighting zombies, some rules for the zombies to be independent from the players and some inspiration for your adventures. Hope you like them.
+
+Kuba
+
+## The question you should ask
+>Did you just say the game needs to be simple AND the terrain needs more care than usual?
+
+Yes, AND your imagination is your only limit here. The scale starts with several walls and five bricks of different colors that mark the important spots and reaches a model of a place you live in built in a minifig scale.
