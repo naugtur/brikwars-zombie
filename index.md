@@ -9,6 +9,7 @@ Mechanic is built on top of Quick Wars mechanics for simplicity, but can easily 
 *bit.ly/zombiebrikz*
 
 ### [download printable PDF version](./zombie-brikz.pdf)
+### [download one page rules cheatsheet](./short.pdf)
 
 ```
 
@@ -80,6 +81,8 @@ To make remembering their state easier, you should mark it with their hands.
 Zombies move `2”` a turn (random direction if wandering)
 
 When a zombie gets spawned roll a die. If `D6 <= DANGER_LVL` the zombie will be wandering
+
+A wandering zombie (or a horde) changes direction at random each turn. You can just spin a bottle or something.
 
 ---
 

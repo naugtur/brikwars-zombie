@@ -5,8 +5,8 @@
   "scripts": {
     "start": "npm run html && npm run pdf",
     "flyers": "electron-pdf ../assets/flyers.html ../flyers.pdf",
-    "html": "marked -i ../index.md | node ./wrap.js > ../index.html",
-    "pdf": "electron-pdf ../index.html ../zombie-brikz.pdf"
+    "html": "marked -i ../index.md | node ./wrap.js > ../index.html && marked -i ../short.md  > ../short.html",
+    "pdf": "electron-pdf ../index.html ../zombie-brikz.pdf && electron-pdf ../short.html ../short.pdf"
   },
   "keywords": [],
   "author": "",
