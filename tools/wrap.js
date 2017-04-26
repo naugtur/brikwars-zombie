@@ -1,3 +1,4 @@
+const dateof = (new Date()).toDateString()
 const before = `
 <!DOCTYPE html>
 <html lang="en">
@@ -14,6 +15,7 @@ const before = `
   <h1 id="zombie-brikz" class="title">Zombie Brikz</h1>
   <h4>AKA Quantum Zombies</h4>
   <p class="punchline">A game of bricks and the dead. <br> As family friendly as any zombie franchise!</p>
+  <p><small>Updated ${dateof}</small></p>
 </section>
 <article>
 `;

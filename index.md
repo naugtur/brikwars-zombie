@@ -11,7 +11,9 @@ Mechanic is built on top of Quick Wars mechanics for simplicity, but can easily 
 ### [download printable PDF version](./zombie-brikz.pdf)
 ### [download one page rules cheatsheet](./short.pdf)
 
+
 ```
+
 
 
 
