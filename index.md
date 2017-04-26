@@ -176,7 +176,7 @@ Special actions:
 example: a broken truck engine requires the team to collect 5 unique tools that would help (only grey/dark grey and black tool accessories helps + use a bit of common sense and don’t repair vehicles with binoculars)
 - Explore - looking for useful items / opening a closed compartment / container, hacking or breaking into something (ATM, safe, lockpicking)
 - Firefighting - one typical brick-built fire extinguisher (two bricks: ‘can’ + ‘tap’) allows to take 2 flame bricks, one per action/turn. Firefighters have an extra action in turn.
--
+---
 
 ## Character creation
 
@@ -184,7 +184,6 @@ Players can choose any character, but make sure they have one advantage and one 
 
 Alternatively players can pick 2 characters - a mix of a strong and a weak one, choosing their traits accordingly (example: a cop and a scared teenager).
 
----
 
 Example disadvantages:
 - Traumatized: freaking out at random or when losing HP - can move at most 2" in a turn when freaked out.
@@ -196,25 +195,31 @@ Example disadvantages:
 - Alcoholic: you have to collect 4 extra food&drinks items, above the quest requirement; you can mark alcohol as additional resource if you like. You have to use the first and the third resource after getting it to the safehouse. Your movement is reduced by 2" when driving or riding bikes.
 - Zombary’s baby: your character has a child or a younger sibling. You have to explore a particular room on the map to find it and check if it got infected. Roll for zombie present in the room - if you roll a zombie, the kid is turned. Be sad. If no, you have to take the baby to the safe place as if you would take a piece of resources.
 
+
+
 Example advantages:
 - Cop: starts with a ranged weapon. +1 dice increased basic attack
 - Badass: If first attack on a zombie didn't kill it, gets another try
+
+
 - Sneaky: twice a game when a zombie is granted an attack against you, you can move your minifig away from it in any direction, up to 2"; the attack doesn’t happen.
 - Mechanic: gets a free repair-only action per turn
 - Firefighter: gets a free "put out fire"-only action per turn
-- Doctor - You start with as many tokens (syringes, pills) as the starting number of characters. You can approach a wounded minifig and remove one token to restore that minifigs health. Including yourself
+- Doctor: You start with as many tokens (syringes, pills) as the starting number of characters. You can approach a wounded minifig and remove one token to restore that minifigs health. Including yourself
 
----
 
 Example funny characters:
 - Footballer: You start with a football.
   - Dribble: You don’t carry the ball in your hands if you want but it is still in your possession when you move.
   - Shoot: Once in your turn you can use the football as a ranged weapon to knock down one zombie. Place the football symmetrically (at the same angle and distance) from the undead you knocked down this way. The zombie can still attack people passing by but cannot move. The abilities can be used with any football on the map.
 
+
 - Skateboarder: You start with a skateboard.
   - Skating: you use the skateboard as your vehicle, moving 1,5x the normal distance per turn. You can do skateboarding tricks on structures that are at the level of minifig’s legs/torso connection or below
     - Ollie: Once per movement, you can jump over things or jump to connect grinds.
-    - Grind: When there is a "grindable" surface such as a rail/ledge/low wall etc. you can grind it, adding its whole length to your normal movement as a bonus. The surface mustn’t be occupied by minifigs or have other bricks attached on top of it (but can have studs). Another obstacle for grinding is a zombie that stands too close to the surface - you might try to knock it down as a melee attack (once per movement) but you fall down and end your movement if you don’t succeed.
+    - Grind: When there is a "grindable" surface such as a rail/ledge/low wall etc. you can grind it, adding its whole length to your normal movement as a bonus. The surface mustn’t be occupied by minifigs or have other bricks attached on top of it (but can have studs). Another obstacle for grinding is a zombie that stands too close to the surface - remember to roll for encounters.
+
+
 
 - Jedi: You start with a lightsaber.
   - Not The Brains You Are Looking For: Once per game you can make one zombie or one horde disinterested; they return to the Standing state (hands down).
@@ -226,8 +231,7 @@ Example funny characters:
 > This place is swarming with zombies. Let's get out of here now! OR as soon as we collect guns and food and fuel and...
 
 - Collect food bricks - 2 per minifig
-- Collect 7 fuel bricks for the trip ahead
-- Collect 3 tools to fix your escape car
+- Collect 7 fuel bricks for the trip and 3 tools to fix your escape car
 
 6 fuel can be found in a gas station, but it's burning with 4 fires so fire extinguishers have to be found first.
 Fuel in quantities of 1 or 2 can be found in random locations.
@@ -236,17 +240,17 @@ Fuel in quantities of 1 or 2 can be found in random locations.
 
 ## The abandoned mansion
 
-> Remember that rich guy's house outside our town? Maybe the place is empty now? After all, the owner isn't a psycho killer, right?
+> Remember that rich guy's house? Maybe the place is empty now? After all, the owner isn't a psycho killer, right?
 
 - Enter the house
 - Explore the Garage / Sadist Studio
 - Find the hostage and take them to the escape car
+- Variant: (optional objective) Collect 2 tools from the Garage to fix the escape car
 
 Plot twist: Before you start the game, toss a coin and (without looking!) set it aside or cover with something. When the rescued hostage is armed or finds a weapon while being escorted, reveal the coin. `Heads`: he is the owner of the mansion and he attacks!
 
 The Psycho Killer has the same stats as characters and always attacks the nearest character; never retreats, fights to his psycho death.
 
-Variant: (additional objective) Collect 2 tools from the Garage to fix the escape car
 
 ## Jailbreak
 
@@ -264,11 +268,11 @@ Plot twist: The injured Prisoner turns into a zombie. Well, at least you tried t
 
 >This is ZOMB, the longest-running un-undead broadcast this part of state. Are you alive? Are you willing to help?
 
-The characters need to help the local media outlet, a solo operation ran by an almost insane hermit, also being the last hope of journalism in this zombie-infested land. The build should consist of equal parts of open space (a desert or a kind of wasteland) and city ruins.
+The characters need to help the local media outlet, a solo operation ran by an almost insane hermit, also being the last hope of journalism in this zombie-infested land.
 
 - Get the gear from a destroyed TV vehicle (bonus tools or car parts, should you need them in a long run for campaign play)
-- Take the gear to the Journalist so that he repairs it and gives you a ready antenna module and instructions
-- Install the antenna module on the right spot, which happens to be the most dangerous one (should be the highest point on your build or a special location picked before the game)
+- Take the gear to the Journalist, he repairs it and gives you an antenna module
+- Install the antenna module on the right spot, which happens to be the most dangerous one (should be the highest point on your build or a special location)
 
 Plot twist: the construction breaks under the character(s) trying to install the device. They fall, possibly get hurt (one wound each), roll for zombie presence again if necessary and have to start over with putting the antenna module in place.
 
@@ -304,12 +308,20 @@ Once you have the quest locations and resources, choose a few places where the c
 
 ```
 Examples:
-1. The characters start this scenario together, they arrived by a car. The board is more or less a rectangle so you pick and assign numbers to 6 starting points on the outside: placed in the corners and the middles of the longer sides, just like pouches on a billiards table. You roll a d6 and place the car and minifigs in the right spot.
+1. The characters start this scenario together, they arrived by a car. The board is more
+or less a rectangle so you pick and assign numbers to 6 starting points on the outside:
+placed in the corners and the middles of the longer sides, just like pouches on a billiards
+table. You roll a d6 and place the car and minifigs in the right spot.
 
-2. Each character should start alone. They are just about to escape their houses. You pick and assign numbers to 6 or less places and roll, ignoring the same rolls.
+2. Each character should start alone. They are just about to escape their houses. You pick
+ and assign numbers to 6 or less places and roll, ignoring the same rolls.
 
-3. Each character starts alone, out in the open. You pick and assign numbers to 6 baseplates or open spaces on the board and roll where each character starts. If the rolls are the same, place the minifigs on the opposite sides of those open spaces.
+3. Each character starts alone, out in the open. You pick and assign numbers to 6 baseplates
+ or open spaces on the board and roll where each character starts. If the rolls are the same,
+  place the minifigs on the opposite sides of those open spaces.
 ```
+
+---
 
 ## Placing things at random
 
