@@ -287,12 +287,14 @@ Distribute the resources evenly on the map. Choose some obvious places with extr
 ### Starting points
 Once you have the quest locations and resources, choose a few places where the characters can start the game. You can have them start together or pick a random spot for each character using the dice.
 
+```
 Examples:
 1. The characters start this scenario together, they arrived by a car. The board is more or less a rectangle so you pick and assign numbers to 6 starting points on the outside: placed in the corners and the middles of the longer sides, just like pouches on a billiards table. You roll a d6 and place the car and minifigs in the right spot.
 
 2. Each character should start alone. They are just about to escape their houses. You pick and assign numbers to 6 or less places and roll, ignoring the same rolls.
 
 3. Each character starts alone, out in the open. You pick and assign numbers to 6 baseplates or open spaces on the board and roll where each character starts. If the rolls are the same, place the minifigs on the opposite sides of those open spaces.
+```
 
 ## Placing things at random
 
@@ -316,25 +318,21 @@ For more information and the complete rules, please visit http://www.brikwars.co
 
 >Our Zombies Are Different
 
-This game is a result of tinkering with QuickWars for pure brik mayhem pleasure. Most of the time, we didn't want to go deep into BrikWars realm, with its rules for Squads, Vehicles, Mounts and Cones of Vision (yes, i just picked a few random words from the core book but you get the idea, we're dealing with a few dozen pages there). The current BW spirit as we see it is also a bit different from how we play a minifig battle game. Obviously, we'd like to share this idea.
+This game is a result of tinkering with QuickWars for pure brik mayhem pleasure. In most battles, we didn't want to go deep into minute details of BrikWars rules.
 
-What is excellent about BrikWars is minifigs fighting in a kind of primordial soup, the perfect chaos of its world and the imagination being the players' only limit. And whenever your imagination is your only limit, it turns out the results are pretty much the same among various users. The game itself is well-structured, but resembles codexes for regular strategic boardgames. And the natural course of players' interaction with BrikWars is that they start to treat it as a regular boardgame. The worldbuilding is thriving and there's more and more interesting army concepts.
+What is excellent about BrikWars is minifigs fighting in a kind of primordial soup, the perfect chaos of its world and the imagination being the players' only limit. 
 
-We get the irony. The tongue-in-cheek armies and realms are cool. But after all, as people stack more things on a simple game, they are replicating what they were trying to avoid in the first place. BrikWars has a potential to be fast and funny boardgame that takes no time to set up. Instead, it grew to a proper set of rules to be memorised and a chance to create absurdly awesome armies for people who can't paint.
+The view Zbyszek had in mind creating the mechanics is that zombies in the movies act like a force of nature. They are a flood wave. Even more, they are dependent on being observed by the characters. That's how the zombie quantum theory was born. It allows you to use a limited number of minifigs at all times, still maintaining the impression of danger the zombie apocalypse might cause.
 
->But what about the Zombies??
+Apart from that, there are just two things. Simplify first. Let's use QuickWars with a twist and keep it true to BrikWars nature - play for fun, remember about the Rule of Fudge. Secondly, shift weight from the army identity to the location functionality. Let the terrain build play. It's just like in a movie... Instead of a legion lead by superheroes, you choose a bunch of normal guys or cliche characters. They are trying to survive in harsh conditions. And their surrounding matters.
 
-Our vision for this purpose would consist of two things. Simplify first. Let's use QuickWars with a twist and keep it true to BrikWars nature - play for fun. Don't get fixated on the rules - they exist so that you don't make *everything* up. Secondly, shift weight from the army identity to the location functionality. Let the terrain build play. It's just like in a movie... Instead of a legion lead by superheroes, you choose a bunch of normal guys or cliche characters. They are trying to survive in harsh conditions. And their surrounding matters.
-
-Because of that, the builds for a Zombie Brikz battle have to be prepared with more care than usual. The objectives for co-op scenario have to be set, some important locations have to be determined and some resources need to be distributed. There might be some conditions the team agrees on beforehand (*if we push this button, this building is replaced with a crater*). In some cases there will be non-player characters for your team to rescue or interact with. Finally, the build needs the player characters and is ready for the undead to be spawned.
-
-The view Zbyszek had in mind creating the mechanics is that zombies in the movies act like a force of nature. They are a flood wave. Even more, they are dependent on being observed by the characters. That's how the zombie quantum theory was born. What is great about it is that you use a limited number of minifigs at all times, still maintaining the impression of danger the zombie apocalypse might cause. 
+Because of that, prepare the maps with more care than usual. The objectives for co-op scenario have to be set, some important locations have to be determined and some resources need to be distributed. There might be some conditions the team agrees on beforehand (*if we push this button, this building is replaced with a crater*). In some cases there will be non-player characters for your team to rescue or interact with. Finally, the build needs the player characters and is ready for the undead to be spawned.
 
 So here it is. A mod. An extension. An addon. Some rules for fighting zombies, some rules for the zombies to be independent from the players and some inspiration for your adventures. Hope you like them.
 
-Kuba
+Kuba & Zbyszek
 
 ## The question you should ask
 >Did you just say the game needs to be simple AND the terrain needs more care than usual?
 
-Yes, AND your imagination is your only limit here. The scale starts with several walls and five bricks of different colors that mark the important spots and reaches a model of a place you live in built in a minifig scale.
+Yes, AND your imagination is your only limit here. The map might just have a few walls and several important spot markers - but why not build a minifig scale model of your hometown? Happy Apocalypse, everyone.
