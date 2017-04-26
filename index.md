@@ -289,8 +289,8 @@ You'll need to set some important spots for your scenario. They will drive the g
 
 - Zombies attached: since exploring such places might be your team's objective, put some guaranteed undead guards in case dice rolls are a disappointment.
 - NPCs present: meeting some dummy Non-Player Characters can trigger plot twists or advance the scenario to its next steps.
-- Danger levels & Plot twists: entering or leaving Quest Locations might increase the Danger Level or trigger a plot twist.
-- Extra resources: Quest locations might also have a bit more stuff you need than other places.
+- Danger levels & Plot twists: entering or leaving quest locations might increase the Danger Level or trigger a plot twist.
+- Extra resources: quest locations might also have a bit more stuff you need than other places.
 
 ### Resources
 Choose which resources are important for your scenario (what will the characters collect). Now choose which bricks represent them. Be reasonable about this: destroying buildings shouldn't produce resources just because the parts are the same. One way to avoid such actions is to represent the resources by unique parts, not used anywhere else.
