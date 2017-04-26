@@ -11,8 +11,15 @@ The game mechanics are built on top of Quick Wars mechanics for simplicity, but 
 ### [download printable PDF version](./zombie-brikz.pdf)
 ### [download one page rules cheatsheet](./short.pdf)
 
-
 ```
+
+
+Mind the trees. Print responsibly.
+2 pages per 1 side of A4/Letter paper recommended.
+
+
+
+
 
 
 
@@ -169,7 +176,7 @@ Special actions:
 example: a broken truck engine requires the team to collect 5 unique tools that would help (only grey/dark grey and black tool accessories helps + use a bit of common sense and don’t repair vehicles with binoculars)
 - Explore - looking for useful items / opening a closed compartment / container, hacking or breaking into something (ATM, safe, lockpicking)
 - Firefighting - one typical brick-built fire extinguisher (two bricks: ‘can’ + ‘tap’) allows to take 2 flame bricks, one per action/turn. Firefighters have an extra action in turn.
-- 
+-
 
 ## Character creation
 
@@ -209,7 +216,7 @@ Example funny characters:
     - Ollie: Once per movement, you can jump over things or jump to connect grinds.
     - Grind: When there is a "grindable" surface such as a rail/ledge/low wall etc. you can grind it, adding its whole length to your normal movement as a bonus. The surface mustn’t be occupied by minifigs or have other bricks attached on top of it (but can have studs). Another obstacle for grinding is a zombie that stands too close to the surface - you might try to knock it down as a melee attack (once per movement) but you fall down and end your movement if you don’t succeed.
 
-- Jedi: You start with a lightsaber. 
+- Jedi: You start with a lightsaber.
   - Not The Brains You Are Looking For: Once per game you can make one zombie or one horde disinterested; they return to the Standing state (hands down).
 
 # Scenarios
@@ -319,15 +326,15 @@ For more information and the complete rules, please visit http://www.brikwars.co
 
 ---
 
-# (Intro?) What this game is and why we made it
+# Why did we write this?
 
 >Our Zombies Are Different
 
 This game is a result of tinkering with QuickWars for pure brik mayhem pleasure. In most battles, we didn't want to go deep into minute details of BrikWars rules.
 
-What is excellent about BrikWars is minifigs fighting in a kind of primordial soup, the perfect chaos of its world and the imagination being the players' only limit. 
+What is excellent about BrikWars is minifigs fighting in a kind of primordial soup, the perfect chaos of its world and the imagination being the players' only limit.
 
-The view Zbyszek had in mind creating the mechanics is that zombies in the movies act like a force of nature. They are a flood wave. Even more, they are dependent on being observed by the characters. That's how the zombie quantum theory was born. It allows you to use a limited number of minifigs at all times, still maintaining the impression of danger the zombie apocalypse might cause.
+What we had in mind creating the mechanics is that zombies in the movies act like a force of nature. They are a flood wave. Even more, they are dependent on being observed by the characters. That's how the zombie quantum theory was born. It allows you to use a limited number of minifigs while maintaining the tension of expecting a zombie around each corner.
 
 Apart from that, there are just two things. Simplify first. Let's use QuickWars with a twist and keep it true to BrikWars nature - play for fun, remember about the Rule of Fudge. Secondly, shift weight from the army identity to the location functionality. Let the terrain build play. It's just like in a movie... Instead of a legion lead by superheroes, you choose a bunch of normal guys or cliche characters. They are trying to survive in harsh conditions. And their surrounding matters.
 
