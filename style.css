@@ -5,11 +5,20 @@ html {
   overflow-x: hidden;
 }
 body {
-  width: 20cm;
   font-family: 'Glegoo', serif;
   font-size: 4mm;
   overflow-x: visible;
   text-align: justify;
+}
+
+@media screen and (min-width: 800px){
+  body {
+    width: 20cm;
+
+  }
+  article {
+    margin: 2cm;
+  }
 }
 
 p {
@@ -24,6 +33,10 @@ h1{
   font-size: 6mm
 }h4{
   font-size: 5mm
+}
+
+pre {
+  white-space: pre-wrap;
 }
 
 
@@ -43,9 +56,7 @@ section {
   line-height: 1em;
 }
 
-article {
-  margin: 2cm;
-}
+
 
 article > h1 {
   color: #fff;
