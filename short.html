@@ -121,7 +121,7 @@
 </tr>
 <tr>
 <td>armor-variant</td>
-<td>2D6 +1D6 for each armor piece</td>
+<td>1D6 +1D6 for each armor piece</td>
 </tr>
 </tbody>
 </table>
@@ -166,6 +166,23 @@
 <table>
 <thead>
 <tr>
+<th>Zombie attention</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> When character running nearby</td>
+<td>5&quot;</td>
+</tr>
+<tr>
+<td> Noise or rumble or gunshots <br> <em>Noise focuses individually based on range, unless</em> <code>D6 = 6</code></td>
+<td>10&quot;</td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
 <th>Encounters</th>
 </tr>
 </thead>
@@ -199,6 +216,12 @@ table {
   float:left;
   border: 1px solid #777;
   margin: 0.5%;
+}
+
+@media (max-width:800px) {
+  table {
+    width: 99%;
+  }
 }
 
 table:nth-of-type(2n+1){

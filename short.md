@@ -32,7 +32,7 @@ brick | 1D6 | touch
 move | 2"
 attack | 1D6
 armor | 4
-armor-variant | 2D6 +1D6 for each armor piece
+armor-variant | 1D6 +1D6 for each armor piece
 
 Zombie spawn |
  --- | ---
@@ -44,6 +44,13 @@ Zombie walk |
  after spawn, roll another D6. |
  `D6 <= DANGER_LVL` | zombie(s) are wandering
  `D6 > DANGER_LVL` | zombie(s) just stand there
+
+Zombie attention |
+ --- | ---
+ When character running nearby | 5"
+ Noise or rumble or gunshots <br> *Noise focuses individually based on range, unless* `D6 = 6` | 10"
+
+
 
 
 Encounters |
@@ -60,6 +67,12 @@ table {
   float:left;
   border: 1px solid #777;
   margin: 0.5%;
+}
+
+@media (max-width:800px) {
+  table {
+    width: 99%;
+  }
 }
 
 table:nth-of-type(2n+1){

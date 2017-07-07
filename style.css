@@ -147,11 +147,14 @@ a:hover {
     width: 20cm;
     overflow:hidden;
   }
+  article {
+    margin: 2cm;
+  }
   a {
     color: #000;
     text-decoration: none;
   }
-  a:not([href^='#'])::after {
+  a:not([href^='#']):not([href^='.'])::after {
     content: attr(href);
     display: inline;
     margin: 0 1mm;
@@ -159,7 +162,7 @@ a:hover {
     outline: 1px solid #eee;
     padding: 0 1mm;
   }
-  #-download-printable-pdf-version-zombie-brikz-pdf-, #-download-one-page-rules-cheatsheet-short-pdf-{
+  a[href^='.'] {
     display:none;
   }
 }

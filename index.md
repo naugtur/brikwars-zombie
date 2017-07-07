@@ -10,6 +10,7 @@ The game mechanics are built on top of Quick Wars mechanics for simplicity, but 
 
 ### [download printable PDF version](./zombie-brikz.pdf)
 ### [download one page rules cheatsheet](./short.pdf)
+### [Open rules cheatsheet](./short.html)
 
 ```
 
@@ -117,13 +118,17 @@ A minifig can be stealthy, but to do that it can only move `2”` per turn. So n
 
 Zombie |
 ---|---
-defense| 2 D6
+defense| 4
+defense-alternative | 1 D6
 damage| 1 D6
 range| 1"
 
 In a player's turn, zombies can be attacked as per QuickWars rules.
 
 When a player’s minifig moves in a way that puts it within `1”` of a zombie at any point of the route, a zombie roll happens for each zombie within range while the character is moving.
+
+What's with the defense-alternative? BrikWars had versions, in this game you can choose which you want. Alternative stats are compatible with older BrikWars.
+
 
 ---
 
@@ -140,7 +145,7 @@ Hit | 5-6 | minifig hits the zombie and pushes it away `2”` in a direction of 
 
 When using Zombie Dice, roll a die and put it away. You need to decide if you want to use the riskier ones first or later. When you run out, start over with the full set.
 
----
+
 
 ## Danger Level
 > As the plot approaches a conclusion (or a mid-season finale) the world gets more and more intense. In zombie infected universe a factor exist that dictates how many zombies should turn out to be waiting around the corner.
